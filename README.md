@@ -103,10 +103,6 @@
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-
-
 
 
 

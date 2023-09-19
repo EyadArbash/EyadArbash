@@ -1,7 +1,7 @@
 ### <div align="center">I'm Eyad, a full-time software developer 👨‍💻 </div>  
   
 
-<br/>  
+
 ###
 
 <div align="center">

@@ -109,7 +109,7 @@
 
 
 ----
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="GitHub Snake Contribution Animation" />
+<img src="https://github.com/EyadArbash/EyadArbash/raw/output/snake.svg" alt="Snake animation" />
 
 
 

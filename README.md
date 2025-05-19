@@ -13,7 +13,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" />
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="50" />
-<img src="[https://www.primefaces.org/wp-content/uploads/2020/05/prime_logo_new.png](https://www.primefaces.org/showcase/javax.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase)" height="50" />
+<img src="https://blog.doubleslash.de/wp/wp-content/uploads/2016/06/logo-300x88.png" height="50" />
 
 <br/><br/>
 

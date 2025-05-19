@@ -35,11 +35,11 @@
 <br/><br/>
 
 ### 🔹 DevOps & Tools
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Eclipse_Logo.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/intellij-original-wordmark.svg" height="50" />
+<img src="https://banner2.cleanpng.com/20180803/uoa/3f8a9432868130f9e02ae0fa53f488d7.webp" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/gitlab-icon.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" height="50" />
+<img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" height="50" />
+<img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="50" />

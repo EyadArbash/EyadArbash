@@ -13,16 +13,16 @@
 <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" />
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="50" />
-<img src="https://blog.doubleslash.de/wp/wp-content/uploads/2016/06/logo-300x88.png" height="50" />
+<img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primeng-logo.png" height="50" />
 
 <br/><br/>
 
 ### 🔹 Backend
 <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/hibernate.svg" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/jakartaee.svg" height="50" />
-<img src="https://www.wildfly.org/images/wildfly_logo_128px.png" height="50" />
+<img src="https://icon.icepanel.io/Technology/svg/Hibernate.svg" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Jakarta_ee_logo_schooner_color_stacked_default.svg" height="50" />
+<img src="https://user-images.githubusercontent.com/6193/193811479-522567d4-5b31-4c20-854d-de5703cfe719.png" height="50" />
 
 <br/><br/>
 

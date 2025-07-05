@@ -7,13 +7,13 @@
 <div align="center">
   
 ### 🔹 Frontend
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" />
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" height="50" />
-<img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primeng-logo.png" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="10" />
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="10" />
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="10" />
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="10" />
+<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="10" />
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" height="10" />
+<img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primeng-logo.png" height="10" />
 
 <br/><br/>
 

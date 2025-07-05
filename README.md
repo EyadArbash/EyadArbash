@@ -18,31 +18,31 @@
 <br/><br/>
 
 ### 🔹 Backend
-<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"  height="10" width="10" />
-<img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg"  height="10" width="10"  />
-<img src="https://icon.icepanel.io/Technology/svg/Hibernate.svg"  height="10" width="10" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Jakarta_ee_logo_schooner_color_stacked_default.svg"  height="10" width="10" />
-<img src="https://user-images.githubusercontent.com/6193/193811479-522567d4-5b31-4c20-854d-de5703cfe719.png"  height="10" width="10" />
+<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"  height="40" width="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg"  height="40" width="40"  />
+<img src="https://icon.icepanel.io/Technology/svg/Hibernate.svg"  height="40" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Jakarta_ee_logo_schooner_color_stacked_default.svg"  height="40" width="40" />
+<img src="https://user-images.githubusercontent.com/6193/193811479-522567d4-5b31-4c20-854d-de5703cfe719.png"  height="40" width="40" />
 
 <br/><br/>
 
 ### 🔹 Datenbanken
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" />
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="50" />
-<img src="https://www.h2database.com/html/images/h2-logo.png" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" width="40" />
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" width="40"/>
+<img src="https://www.h2database.com/html/images/h2-logo.png" height="40" width="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="40" width="40" />
 
 <br/><br/>
 
 ### 🔹 DevOps & Tools
-<img src="https://banner2.cleanpng.com/20180803/uoa/3f8a9432868130f9e02ae0fa53f488d7.webp" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
-<img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" height="50" />
-<img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="50" />
+<img src="https://banner2.cleanpng.com/20180803/uoa/3f8a9432868130f9e02ae0fa53f488d7.webp" height="40" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="40" width="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" width="40" />
+<img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" height="40" width="40" />
+<img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg" height="40" width="40" />
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="40" width="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="40" width="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="40" width="40" />
 
 </div>
 
